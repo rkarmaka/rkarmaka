@@ -20,7 +20,7 @@ Python | SQL | PyTorch | TensorFlow | Scikit-learn | OpenCV | LangChain | Ollama
 **Specialized:**  
 Computer Vision | Bioimage Analysis | Machine Learning
 
-**Software Development**
+**Software Development:**  
 Flask | FastAPI | Streamlit | Gradio | Git | Docker | VS Code | Jupyter | Conda
 
 ---

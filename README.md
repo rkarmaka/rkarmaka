@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Ranit Karmakar  
 
-<!--
-**rkarmaka/rkarmaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Scientist | Bioimage Analysis | Generative AI | Applied Researcher**  
+📍 Boston, MA | Harvard Medical School  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋🏽‍♂️ About Me  
+- 🎓 PhD in Computer Engineering with focus on AI in healthcare (applied + entrepreneurial)
+- 🧠 Researching **Computer Vision, Bioimage Analysis, Image Quality Assessment, Evaluation, and Language Models (SLMs)**
+- 🧑‍🏫 Produced and taught workshops on **image analysis, Python, image segmentation, and ML & AI**  
+- 💡 Passionate about **open-source, applied ML, and bridging research → real-world impact**
+
+---
+
+## 🛠️ Skills & Tools  
+**Languages & Frameworks:**  
+Python | SQL | PyTorch | TensorFlow | Scikit-learn | OpenCV | LangChain | Ollama | HuggingFace
+
+**Specialized:**  
+Computer Vision | Bioimage Analysis | Machine Learning
+
+**Software Development**
+Flask | FastAPI | Streamlit | Gradio | Git | Docker | VS Code | Jupyter | Conda
+
+---
+
+## 📌 Featured Projects  
+<p align="left">
+  <a href="https://github.com/rkarmaka/SoftPQ">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rkarmaka&repo=SoftPQ&theme=github_dark" />
+  </a>
+  <a href="https://github.com/rkarmaka/BIA-QC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rkarmaka&repo=BIA-QC&theme=github_dark" />
+  </a>
+</p>
+
+- 🧪 **[NoRI](https://github.com/rkarmaka/NoRI):** Kidney Tissue Characterization using Normalized Raman Imaging (NoRI) and Segment-Anything
+- 📏 **[SoftPQ](https://github.com/rkarmaka/SoftPQ):** Robust instance segmentation metric with soft matching + tunable thresholds  
+- 🔬 **[BioIQ](https://github.com/rkarmaka/BioIQ):** Quality control toolkit for bioimage analysis  
+- 🏥 **[Mobile-PolypNet](https://github.com/rkarmaka/Mobile-PolypNet):** Lightweight segmentation for colonoscopy polyp detection
+- 🎨 **[LUTipy](https://github.com/rkarmaka/LUTipy):** Python package for aesthetic microscopy LUTs  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rkarmaka&show_icons=true&theme=github_dark&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkarmaka&theme=github-dark&hide_border=true" height="160px"/>
+</p>
+
+---
+
+## 🌍 Connect with Me  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rkarmaka)  
+- 📄 [Google Scholar](https://scholar.google.com/citations?hl=en&user=gupLB6EAAAAJ) 
+- 📧 Email: ranit.karmakar@outlook.com
+  
+---
+⭐️ *Always excited to collaborate!*

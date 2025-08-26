@@ -27,7 +27,7 @@ Flask | FastAPI | Streamlit | Gradio | Git | Docker | VS Code | Jupyter | Conda
 
 ## 📌 Featured Projects  
 <p align="left">
-  <a href="https://github.com/rkarmaka/BIA-QC">
+  <a href="https://github.com/rkarmaka/NoRI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rkarmaka&repo=NoRI&theme=github_dark" />
   </a>
   <a href="https://github.com/rkarmaka/SoftPQ">

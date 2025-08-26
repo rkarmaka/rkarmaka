@@ -7,7 +7,7 @@
 
 ## 🙋🏽‍♂️ About Me  
 - 🎓 PhD in Computer Engineering with focus on AI in healthcare (applied + entrepreneurial)
-- 🧠 Researching **Computer Vision, Bioimage Analysis, Image Quality Assessment, Evaluation, and Language Models (SLMs)**
+- 🧠 Researching **Computer Vision, Bioimage Analysis, Image Quality Assessment, Evaluation, and Language Models**
 - 🧑‍🏫 Produced and taught workshops on **image analysis, Python, image segmentation, and ML & AI**  
 - 💡 Passionate about **open-source, applied ML, and bridging research → real-world impact**
 

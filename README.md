@@ -53,7 +53,7 @@ Flask | FastAPI | Streamlit | Gradio | Git | Docker | VS Code | Jupyter | Conda
 ## 🌍 Connect with Me  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rkarmaka)  
 - 📄 [Google Scholar](https://scholar.google.com/citations?hl=en&user=gupLB6EAAAAJ) 
-- 📧 Email: ranit.karmakar@outlook.com
+- 📧 ranit.karmakar@outlook.com
   
 ---
 ⭐️ *Always excited to collaborate!*

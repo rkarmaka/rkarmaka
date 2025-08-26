@@ -40,14 +40,14 @@ Flask | FastAPI | Streamlit | Gradio | Git | Docker | VS Code | Jupyter | Conda
 - 🏥 **[Mobile-PolypNet](https://github.com/rkarmaka/Mobile-PolypNet):** Lightweight segmentation for colonoscopy polyp detection
 - 🎨 **[LUTipy](https://github.com/rkarmaka/LUTipy):** Python package for aesthetic microscopy LUTs  
 
----
+<!-- ---
 
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rkarmaka&show_icons=true&theme=github_dark&hide_border=true" height="160px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkarmaka&theme=github-dark&hide_border=true" height="160px"/>
 </p>
-
+-->
 ---
 
 ## 🌍 Connect with Me  

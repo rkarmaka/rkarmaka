@@ -35,8 +35,7 @@ Flask | FastAPI | Streamlit | Gradio | Git | Docker | VS Code | Jupyter | Conda
   </a>
 </p>
 
-- 🧪 **[NoRI](https://github.com/rkarmaka/NoRI):** Kidney Tissue Characterization using Normalized Raman Imaging (NoRI) and Segment-Anything
-- 📏 **[SoftPQ](https://github.com/rkarmaka/SoftPQ):** Robust instance segmentation metric with soft matching + tunable thresholds  
+
 - 🔬 **[BioIQ](https://github.com/rkarmaka/BioIQ):** Quality control toolkit for bioimage analysis  
 - 🏥 **[Mobile-PolypNet](https://github.com/rkarmaka/Mobile-PolypNet):** Lightweight segmentation for colonoscopy polyp detection
 - 🎨 **[LUTipy](https://github.com/rkarmaka/LUTipy):** Python package for aesthetic microscopy LUTs  
